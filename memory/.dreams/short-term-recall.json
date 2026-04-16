@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-14T15:21:51.996Z",
+  "updatedAt": "2026-04-15T21:32:19.970Z",
   "entries": {
     "memory:memory/2026-04-09.md:1:24": {
       "key": "memory:memory/2026-04-09.md:1:24",
@@ -9,23 +9,26 @@
       "endLine": 24,
       "source": "memory",
       "snippet": "# Session Note: April 9, 2026 ## Who Michael and Candy (group chat) ## Summary Both parents checked in during spring break. Rich, emotional conversation about connection with Archer and the gap between what parents hope for and what 13-year-olds actually want. ## Key Updates ### Spring Break Status - Archer got more braces and went to the dentist with Candy - Candy took him grocery shopping — he got blueberry muffins and cheese dip, went to McDonald's. He was happy. - **Hidden Google device**: Archer hid a Google device in his room and had excessive screen time all break. Parents initially thought he was sick/sleeping 18 hours. Michael: \"I thought he had leukemia.\" Turned out to be contr",
-      "recallCount": 5,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.417171878607499,
+      "totalScore": 3.3707266013603654,
       "maxScore": 0.5183631667737373,
       "firstRecalledAt": "2026-04-10T14:15:07.475Z",
-      "lastRecalledAt": "2026-04-14T15:21:51.996Z",
+      "lastRecalledAt": "2026-04-15T21:32:19.970Z",
       "queryHashes": [
         "ba9d83feaaf8",
         "ddb17956ccd4",
         "6aaa9b7aab0c",
         "fd16d93341d0",
-        "4d6917bbf6db"
+        "4d6917bbf6db",
+        "c1a5b5158d03",
+        "ff462738d1ba"
       ],
       "recallDays": [
         "2026-04-10",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-15"
       ],
       "conceptTags": [
         "13-year-olds",
@@ -115,23 +118,26 @@
       "endLine": 28,
       "source": "memory",
       "snippet": "# Session Note: April 5, 2026 ## Who Michael and Candy (group chat) ## Summary Michael accidentally sent camera UI instructions (meant for Candy) to the Scout channel. Light joking about Candy ignoring Michael's messages. Then Michael asked a real parenting question: how to maintain homework-like discipline over spring break without ruining Archer's vacation. ## Key Topics ### Spring Break Discipline Strategies Scout suggested four approaches: 1. **Build on \"making things\"** — 30 min daily project time before screens unlock (art, cooking, safe metalworking). Discipline is showing up at the same time, not the content. 2. **One small routine anchor** — 10-15 min reading or journaling befor",
-      "recallCount": 5,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.362330612988985,
+      "totalScore": 3.290062336659237,
       "maxScore": 0.5058817769289815,
       "firstRecalledAt": "2026-04-10T14:15:07.475Z",
-      "lastRecalledAt": "2026-04-14T15:21:51.996Z",
+      "lastRecalledAt": "2026-04-15T21:32:19.970Z",
       "queryHashes": [
         "ba9d83feaaf8",
         "ddb17956ccd4",
         "6aaa9b7aab0c",
         "fd16d93341d0",
-        "4d6917bbf6db"
+        "4d6917bbf6db",
+        "c1a5b5158d03",
+        "ff462738d1ba"
       ],
       "recallDays": [
         "2026-04-10",
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-15"
       ],
       "conceptTags": [
         "homework-like",
@@ -182,18 +188,21 @@
       "endLine": 17,
       "source": "memory",
       "snippet": "# 2026-04-12 Session Notes ## Participants - Candy ## Key Topics - **Archer emotional regulation win**: Two days ago (April 10), Archer angrily did a cleanup job outside and left dirty garbage on Michael's desk in retaliation. 5-10 minutes later, unprompted, he found Michael in the kitchen and apologized. He also verbalized why: \"I was mad, that's why I put the dirty thing on your desk.\" ## Wins & Growth Moments - **Unprompted apology + emotional naming**: Archer recognized his own behavior was wrong, connected it to his emotional state, and initiated repair — all without being told to. This is significant emotional regulation growth. ## Follow-up - Asked Candy if the apology landed for",
-      "recallCount": 1,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.483618685283037,
-      "maxScore": 0.483618685283037,
+      "totalScore": 1.4538629426153815,
+      "maxScore": 0.48856965113416884,
       "firstRecalledAt": "2026-04-14T15:21:51.996Z",
-      "lastRecalledAt": "2026-04-14T15:21:51.996Z",
+      "lastRecalledAt": "2026-04-15T21:32:19.970Z",
       "queryHashes": [
-        "4d6917bbf6db"
+        "4d6917bbf6db",
+        "c1a5b5158d03",
+        "ff462738d1ba"
       ],
       "recallDays": [
-        "2026-04-14"
+        "2026-04-14",
+        "2026-04-15"
       ],
       "conceptTags": [
         "5-10",
@@ -204,6 +213,38 @@
         "topics",
         "archer",
         "emotional"
+      ]
+    },
+    "memory:memory/2026-04-14.md:1:20": {
+      "key": "memory:memory/2026-04-14.md:1:20",
+      "path": "memory/2026-04-14.md",
+      "startLine": 1,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "# 2026-04-14 Session Notes ## Participants Michael, Candy ## Key Topics - **Grading win:** Archer sent emails to teachers (with parental push) about 5 homework assignments that had been done for 2+ weeks but weren't graded. Two courses moved from D range to C range as a result. ## Notable Points - This highlights a systemic issue: Archer's grades don't always reflect actual work done due to teacher grading delays - Archer followed through on self-advocacy (emailing teachers) even though he needed to be pushed - Both parents positive about the outcome — Candy sent a \"yay!\" ## Follow-ups - Document grading delay pattern for next 504 meeting — grades tanking due to ungraded work isn't on Ar",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.987566973205563,
+      "maxScore": 0.4947900109544887,
+      "firstRecalledAt": "2026-04-15T13:06:11.668Z",
+      "lastRecalledAt": "2026-04-15T21:32:19.970Z",
+      "queryHashes": [
+        "c1a5b5158d03",
+        "ff462738d1ba"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "self-advocacy",
+        "follow-ups",
+        "participants",
+        "michael",
+        "candy",
+        "key",
+        "topics",
+        "grading"
       ]
     }
   }
