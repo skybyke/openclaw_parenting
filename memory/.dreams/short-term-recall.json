@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-15T21:32:19.970Z",
+  "updatedAt": "2026-04-16T12:22:38.688Z",
   "entries": {
     "memory:memory/2026-04-09.md:1:24": {
       "key": "memory:memory/2026-04-09.md:1:24",
@@ -9,13 +9,13 @@
       "endLine": 24,
       "source": "memory",
       "snippet": "# Session Note: April 9, 2026 ## Who Michael and Candy (group chat) ## Summary Both parents checked in during spring break. Rich, emotional conversation about connection with Archer and the gap between what parents hope for and what 13-year-olds actually want. ## Key Updates ### Spring Break Status - Archer got more braces and went to the dentist with Candy - Candy took him grocery shopping — he got blueberry muffins and cheese dip, went to McDonald's. He was happy. - **Hidden Google device**: Archer hid a Google device in his room and had excessive screen time all break. Parents initially thought he was sick/sleeping 18 hours. Michael: \"I thought he had leukemia.\" Turned out to be contr",
-      "recallCount": 7,
+      "recallCount": 8,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3.3707266013603654,
+      "totalScore": 3.841360531040096,
       "maxScore": 0.5183631667737373,
       "firstRecalledAt": "2026-04-10T14:15:07.475Z",
-      "lastRecalledAt": "2026-04-15T21:32:19.970Z",
+      "lastRecalledAt": "2026-04-16T12:22:38.688Z",
       "queryHashes": [
         "ba9d83feaaf8",
         "ddb17956ccd4",
@@ -23,12 +23,14 @@
         "fd16d93341d0",
         "4d6917bbf6db",
         "c1a5b5158d03",
-        "ff462738d1ba"
+        "ff462738d1ba",
+        "15cfa2595e7e"
       ],
       "recallDays": [
         "2026-04-10",
         "2026-04-14",
-        "2026-04-15"
+        "2026-04-15",
+        "2026-04-16"
       ],
       "conceptTags": [
         "13-year-olds",
@@ -188,21 +190,23 @@
       "endLine": 17,
       "source": "memory",
       "snippet": "# 2026-04-12 Session Notes ## Participants - Candy ## Key Topics - **Archer emotional regulation win**: Two days ago (April 10), Archer angrily did a cleanup job outside and left dirty garbage on Michael's desk in retaliation. 5-10 minutes later, unprompted, he found Michael in the kitchen and apologized. He also verbalized why: \"I was mad, that's why I put the dirty thing on your desk.\" ## Wins & Growth Moments - **Unprompted apology + emotional naming**: Archer recognized his own behavior was wrong, connected it to his emotional state, and initiated repair — all without being told to. This is significant emotional regulation growth. ## Follow-up - Asked Candy if the apology landed for",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.4538629426153815,
+      "totalScore": 1.9337356077344567,
       "maxScore": 0.48856965113416884,
       "firstRecalledAt": "2026-04-14T15:21:51.996Z",
-      "lastRecalledAt": "2026-04-15T21:32:19.970Z",
+      "lastRecalledAt": "2026-04-16T12:22:38.688Z",
       "queryHashes": [
         "4d6917bbf6db",
         "c1a5b5158d03",
-        "ff462738d1ba"
+        "ff462738d1ba",
+        "15cfa2595e7e"
       ],
       "recallDays": [
         "2026-04-14",
-        "2026-04-15"
+        "2026-04-15",
+        "2026-04-16"
       ],
       "conceptTags": [
         "5-10",
@@ -222,19 +226,21 @@
       "endLine": 20,
       "source": "memory",
       "snippet": "# 2026-04-14 Session Notes ## Participants Michael, Candy ## Key Topics - **Grading win:** Archer sent emails to teachers (with parental push) about 5 homework assignments that had been done for 2+ weeks but weren't graded. Two courses moved from D range to C range as a result. ## Notable Points - This highlights a systemic issue: Archer's grades don't always reflect actual work done due to teacher grading delays - Archer followed through on self-advocacy (emailing teachers) even though he needed to be pushed - Both parents positive about the outcome — Candy sent a \"yay!\" ## Follow-ups - Document grading delay pattern for next 504 meeting — grades tanking due to ungraded work isn't on Ar",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.987566973205563,
+      "totalScore": 1.4727850055287717,
       "maxScore": 0.4947900109544887,
       "firstRecalledAt": "2026-04-15T13:06:11.668Z",
-      "lastRecalledAt": "2026-04-15T21:32:19.970Z",
+      "lastRecalledAt": "2026-04-16T12:22:38.688Z",
       "queryHashes": [
         "c1a5b5158d03",
-        "ff462738d1ba"
+        "ff462738d1ba",
+        "15cfa2595e7e"
       ],
       "recallDays": [
-        "2026-04-15"
+        "2026-04-15",
+        "2026-04-16"
       ],
       "conceptTags": [
         "self-advocacy",
