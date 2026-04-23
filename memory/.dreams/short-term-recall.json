@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-18T23:36:52.127Z",
+  "updatedAt": "2026-04-22T19:35:26.020Z",
   "entries": {
     "memory:memory/2026-04-09.md:1:24": {
       "key": "memory:memory/2026-04-09.md:1:24",
@@ -232,26 +232,28 @@
       "endLine": 20,
       "source": "memory",
       "snippet": "# 2026-04-14 Session Notes ## Participants Michael, Candy ## Key Topics - **Grading win:** Archer sent emails to teachers (with parental push) about 5 homework assignments that had been done for 2+ weeks but weren't graded. Two courses moved from D range to C range as a result. ## Notable Points - This highlights a systemic issue: Archer's grades don't always reflect actual work done due to teacher grading delays - Archer followed through on self-advocacy (emailing teachers) even though he needed to be pushed - Both parents positive about the outcome — Candy sent a \"yay!\" ## Follow-ups - Document grading delay pattern for next 504 meeting — grades tanking due to ungraded work isn't on Ar",
-      "recallCount": 6,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.9077571011935746,
+      "totalScore": 3.3572290897289876,
       "maxScore": 0.4947900109544887,
       "firstRecalledAt": "2026-04-15T13:06:11.668Z",
-      "lastRecalledAt": "2026-04-18T12:35:08.083Z",
+      "lastRecalledAt": "2026-04-22T19:35:26.020Z",
       "queryHashes": [
         "c1a5b5158d03",
         "ff462738d1ba",
         "15cfa2595e7e",
         "dbb65c8ca6a9",
         "897341ee9ac1",
-        "2eb683b05a5a"
+        "2eb683b05a5a",
+        "87562a1fbf39"
       ],
       "recallDays": [
         "2026-04-15",
         "2026-04-16",
         "2026-04-17",
-        "2026-04-18"
+        "2026-04-18",
+        "2026-04-22"
       ],
       "conceptTags": [
         "self-advocacy",
@@ -271,21 +273,23 @@
       "endLine": 25,
       "source": "memory",
       "snippet": "# 2026-04-16 (Wednesday) ## Session: Michael sharing screenshots **Who:** Michael **Time:** ~1:25 PM EDT ### What happened - Michael opened a temporary communication channel (chat app) so Archer could reach him at school if he had a laptop problem - Archer immediately used it to rage about parental controls — \"fix my phone now\", \"YOUR APP IS TRASH\", \"YOUR APP IS ASS\", escalating to \"fuck you\" when Michael didn't comply - Michael stayed calm, asked what the issue was, tried to troubleshoot (guessed lost mode), maintained boundaries - Michael predicted this would happen (\"i knew that would happen, actually\") - Michael closed the channel for the rest of the day ### Key observations - Archer",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.464896281050215,
+      "totalScore": 1.931946297257074,
       "maxScore": 0.4974267035217338,
       "firstRecalledAt": "2026-04-17T22:36:55.176Z",
-      "lastRecalledAt": "2026-04-18T23:36:52.127Z",
+      "lastRecalledAt": "2026-04-22T19:35:26.020Z",
       "queryHashes": [
         "897341ee9ac1",
         "2eb683b05a5a",
-        "5845ea165588"
+        "5845ea165588",
+        "87562a1fbf39"
       ],
       "recallDays": [
         "2026-04-17",
-        "2026-04-18"
+        "2026-04-18",
+        "2026-04-22"
       ],
       "conceptTags": [
         "wednesday",
