@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-22T19:35:26.020Z",
+  "updatedAt": "2026-04-25T21:37:19.432Z",
   "entries": {
     "memory:memory/2026-04-09.md:1:24": {
       "key": "memory:memory/2026-04-09.md:1:24",
@@ -273,23 +273,26 @@
       "endLine": 25,
       "source": "memory",
       "snippet": "# 2026-04-16 (Wednesday) ## Session: Michael sharing screenshots **Who:** Michael **Time:** ~1:25 PM EDT ### What happened - Michael opened a temporary communication channel (chat app) so Archer could reach him at school if he had a laptop problem - Archer immediately used it to rage about parental controls — \"fix my phone now\", \"YOUR APP IS TRASH\", \"YOUR APP IS ASS\", escalating to \"fuck you\" when Michael didn't comply - Michael stayed calm, asked what the issue was, tried to troubleshoot (guessed lost mode), maintained boundaries - Michael predicted this would happen (\"i knew that would happen, actually\") - Michael closed the channel for the rest of the day ### Key observations - Archer",
-      "recallCount": 4,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.931946297257074,
+      "totalScore": 2.840742829908892,
       "maxScore": 0.4974267035217338,
       "firstRecalledAt": "2026-04-17T22:36:55.176Z",
-      "lastRecalledAt": "2026-04-22T19:35:26.020Z",
+      "lastRecalledAt": "2026-04-25T21:37:19.432Z",
       "queryHashes": [
         "897341ee9ac1",
         "2eb683b05a5a",
         "5845ea165588",
-        "87562a1fbf39"
+        "87562a1fbf39",
+        "279fa8931919",
+        "a7db12bc377b"
       ],
       "recallDays": [
         "2026-04-17",
         "2026-04-18",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-25"
       ],
       "conceptTags": [
         "wednesday",
